@@ -1,0 +1,23 @@
+﻿---
+ID: d83e40f0-ffd6-447d-b908-3076b34049c4
+Parent: ed6b3dd5-b47e-441f-8107-2cf1f0d9648e
+Template: 455a3e98-a627-4b40-8035-e683a0331ac7
+Path: /sitecore/templates/User Defined/Shared/Content/Hero/Media/Hero Image Mobile
+SharedFields:
+- ID: 1eb8ae32-e190-44a6-968d-ed904c794ebf
+  # Source
+  Value: /sitecore/media library/Images/Poker Central
+- ID: ab162cc0-dc80-4abf-8871-998ee5d7ba32
+  # Type
+  Value: Image
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150911T124747Z

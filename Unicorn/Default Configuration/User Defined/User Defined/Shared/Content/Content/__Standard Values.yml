@@ -1,0 +1,16 @@
+﻿---
+ID: b6741e11-2b86-46ca-85c6-945f86c05f11
+Parent: e9828587-24e6-478b-8778-c36fcc93c062
+Template: e9828587-24e6-478b-8778-c36fcc93c062
+Path: /sitecore/templates/User Defined/Shared/Content/Content/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150706T164217Z
+    - ID: 8afe81ba-e882-410a-a681-430a84f32881
+      # Page Title
+      Value: $name

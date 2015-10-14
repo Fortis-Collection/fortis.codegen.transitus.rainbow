@@ -1,0 +1,20 @@
+﻿---
+ID: 1612386e-b1b8-4a8e-b323-8639f640cd81
+Parent: 84a902e0-5b04-4f52-b92d-adbf49441c58
+Template: 455a3e98-a627-4b40-8035-e683a0331ac7
+Path: /sitecore/templates/User Defined/Shared/Content/Content/Content/Content Body
+SharedFields:
+- ID: ab162cc0-dc80-4abf-8871-998ee5d7ba32
+  # Type
+  Value: Rich Text
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150706T164203Z

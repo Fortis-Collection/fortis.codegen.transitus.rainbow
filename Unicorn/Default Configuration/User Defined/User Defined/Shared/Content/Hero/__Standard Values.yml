@@ -1,0 +1,13 @@
+﻿---
+ID: b0e4a67d-be4f-4b09-9fad-1413de96fd86
+Parent: b19b286c-16ce-4a39-84de-d77ea0441b4f
+Template: b19b286c-16ce-4a39-84de-d77ea0441b4f
+Path: /sitecore/templates/User Defined/Shared/Content/Hero/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150813T140557Z

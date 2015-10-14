@@ -1,0 +1,3 @@
+﻿<#@ Assembly Name="$(SolutionDir)\packages\Fortis.3.5.5.2\lib\net45\Fortis.dll" #>
+<#@ Assembly Name="$(SolutionDir)\..\Libraries\Sitecore.Kernel.dll" #>
+<#@ assembly name="$(ProjectDir)$(OutDir)Transitus.Rainbow.dll" #>

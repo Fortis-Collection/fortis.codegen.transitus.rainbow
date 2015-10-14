@@ -1,0 +1,16 @@
+﻿---
+ID: 5c41b50a-a19c-4fd1-8c9a-b61f18092db5
+Parent: e81f2fc8-28be-4d75-b6b5-194807d3da00
+Template: e81f2fc8-28be-4d75-b6b5-194807d3da00
+Path: /sitecore/templates/User Defined/Shared/Content/Lookup Item/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150710T210658Z
+    - ID: 629be8db-dd2a-4de4-9533-49fd18e6092e
+      # Text Value
+      Value: $name

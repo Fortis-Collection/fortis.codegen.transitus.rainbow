@@ -1,0 +1,16 @@
+﻿---
+ID: d95d6237-779d-46c8-8434-5b6b485c0402
+Parent: e81f2fc8-28be-4d75-b6b5-194807d3da00
+Template: e269fbb5-3750-427a-9149-7aa950b49301
+Path: /sitecore/templates/User Defined/Shared/Content/Lookup Item/Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150710T153655Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

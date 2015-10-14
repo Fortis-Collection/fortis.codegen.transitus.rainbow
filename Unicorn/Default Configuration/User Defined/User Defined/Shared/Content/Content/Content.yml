@@ -1,0 +1,16 @@
+﻿---
+ID: 84a902e0-5b04-4f52-b92d-adbf49441c58
+Parent: e9828587-24e6-478b-8778-c36fcc93c062
+Template: e269fbb5-3750-427a-9149-7aa950b49301
+Path: /sitecore/templates/User Defined/Shared/Content/Content/Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150706T164203Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

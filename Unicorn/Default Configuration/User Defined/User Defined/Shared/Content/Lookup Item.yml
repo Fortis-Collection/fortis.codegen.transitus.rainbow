@@ -1,0 +1,30 @@
+﻿---
+ID: e81f2fc8-28be-4d75-b6b5-194807d3da00
+Parent: 5c5408f2-4559-46c1-b9a0-9fc85602b1b3
+Template: ab86861a-6030-46c5-b394-e8f99e8b87db
+Path: /sitecore/templates/User Defined/Shared/Content/Lookup Item
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: Office/16x16/find_text.png
+- ID: 12c33f3f-86c5-43a5-aeb4-5598cec45116
+  # __Base template
+  Type: tree list
+  Value: {C99768FE-5EF4-4A9A-A06B-F6F926391940}
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 1000
+- ID: f7d48a55-2158-4f02-9356-756654404f73
+  # __Standard values
+  Value: {5C41B50A-A19C-4FD1-8C9A-B61F18092DB5}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150710T153641Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

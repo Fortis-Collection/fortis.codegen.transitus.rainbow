@@ -1,0 +1,18 @@
+﻿---
+ID: 48b8f35b-bd5a-4e59-828c-bd64123a89ec
+Parent: 2a757a67-4f93-4d03-8c63-18eb2e9c194a
+Template: 2a757a67-4f93-4d03-8c63-18eb2e9c194a
+Path: /sitecore/templates/User Defined/Shared/Content/Lookup Folder/__Standard Values
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  # __Masters
+  Type: TreelistEx
+  Value: {E81F2FC8-28BE-4D75-B6B5-194807D3DA00}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150710T210846Z

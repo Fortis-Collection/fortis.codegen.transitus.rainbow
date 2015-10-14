@@ -1,0 +1,13 @@
+﻿---
+ID: aace3476-ffc6-4663-9d2b-c43fb274a2ae
+Parent: a53e5bcd-d614-465a-9aee-d0cefc432348
+Template: a53e5bcd-d614-465a-9aee-d0cefc432348
+Path: /sitecore/templates/User Defined/Shared/Content/Trending/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150915T221544Z
